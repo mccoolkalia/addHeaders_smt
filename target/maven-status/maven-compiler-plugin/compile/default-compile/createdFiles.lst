@@ -1,0 +1,4 @@
+com/github/mccoolkalia/kafka/connect/smt/HeaderFrom.class
+com/github/mccoolkalia/kafka/connect/smt/HeaderFrom$Key.class
+com/github/mccoolkalia/kafka/connect/smt/HeaderFrom$Operation.class
+com/github/mccoolkalia/kafka/connect/smt/HeaderFrom$Value.class
